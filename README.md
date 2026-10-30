@@ -8,7 +8,7 @@
 
 An Avengers-inspired full-stack workspace with a live 3D arc reactor,<br/>secure authentication, and a personal mission console.
 
-[Explore the source](https://github.com/rachit1807/nexora) · [Features](#the-experience) · [Run locally](#run-locally) · [API](#api-reference)
+[Live app](https://nexora-rachit.onrender.com) · [Explore the source](https://github.com/rachit1807/nexora) · [Features](#the-experience) · [Run locally](#run-locally) · [API](#api-reference)
 
 <img src="https://skillicons.dev/icons?i=react,vite,threejs,js,css,nodejs,express,postgres,sqlite,git,github&theme=dark" alt="React, Vite, Three.js, JavaScript, CSS, Node.js, Express, PostgreSQL, SQLite, Git, GitHub" />
 
